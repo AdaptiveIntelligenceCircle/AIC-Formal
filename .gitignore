@@ -1,0 +1,21 @@
+# TLA+ / TLC / Apalache artifacts
+*.out
+*.log
+*.tla.out
+states/
+.toolbox/
+_apalache*/
+*.jar
+
+# Editor / OS
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+*.iml
+
+# Python (if any helper scripts appear later)
+__pycache__/
+*.pyc
+.venv/
