@@ -69,7 +69,7 @@ Apalache is preferred for inductive invariants; TLC is sufficient for small exha
 - **AIC-TestNet / Parallel TestNet** — these models abstract selected behaviors that the C++ reference nets implement.
 - **AIC-Covenant** — criteria and checklists may reference properties stated here; models do not declare Covenant readiness.
 - **AIC-TransparencyDashboard** — formal results (when produced) can be logged as audit events; no automatic pipeline is assumed.
-- **AIC-Start-Here / MyVision** — philosophical and onboarding context; formal models stay technical and bounded.
+- **AIC-Beginners / MyVision** — philosophical and onboarding context; formal models stay technical and bounded.
 
 ## Principles observed
 
